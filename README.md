@@ -10,7 +10,7 @@ spell_checker
 [release-image]: https://img.shields.io/badge/release-0.0.11-blue.svg?style=flat
 [releases]: https://github.com/bakwc/JamSpell/releases
 
-JamSpell - это библиотека для проверки орфографии со следующими функциями:
+JamSpellKazakh - это библиотека для проверки орфографии со следующими функциями:
 
 - **точность** - учитывает окружение слов (контекст) для лучшей коррекции
 - **скорость** - около 5 тыс. слов в секунду
