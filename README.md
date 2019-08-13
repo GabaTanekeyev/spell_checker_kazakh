@@ -116,7 +116,7 @@ pip install jamspell
 import jamspell
 
 corrector = jamspell.TSpellCorrector()
-corrector.LoadLangModel('en.bin')
+corrector.LoadLangModel('model_kaz_final.bin')
 
 corrector.FixFragment('базалары ман қоймалары жанындағы тыйм салынған аймақтрды жәе қарулы күштердвің')
 # u'базалары мен қоймалары жанындағы тыйым салынған аймақтарды және қарулы күштердің'
