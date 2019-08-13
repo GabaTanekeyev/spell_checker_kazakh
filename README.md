@@ -1,7 +1,6 @@
 # spell_checker_kazakh
 spell_checker
-# JamSpellKazakh
-
+# JamSpell 
 [![Build Status][travis-image]][travis] [![Release][release-image]][releases]
 
 [travis-image]: https://travis-ci.org/bakwc/JamSpell.svg?branch=master
@@ -10,7 +9,7 @@ spell_checker
 [release-image]: https://img.shields.io/badge/release-0.0.11-blue.svg?style=flat
 [releases]: https://github.com/bakwc/JamSpell/releases
 
-JamSpellKazakh - это библиотека для проверки орфографии со следующими функциями:
+JamSpell - это библиотека для проверки орфографии со следующими функциями:
 
 - **точность** - учитывает окружение слов (контекст) для лучшей коррекции
 - **скорость** - около 5 тыс. слов в секунду
