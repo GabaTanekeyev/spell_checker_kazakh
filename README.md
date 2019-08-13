@@ -1,6 +1,6 @@
 # spell_checker_kazakh
-spell_checker_kazakh
-# JamSpell
+spell_checker
+# JamSpellKazakh
 
 [![Build Status][travis-image]][travis] [![Release][release-image]][releases]
 
