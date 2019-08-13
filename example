@@ -1,0 +1,8 @@
+import jamspell
+
+corrector = jamspell.TSpellCorrector()
+corrector.LoadLangModel(/.../model_kaz_final.bin')
+
+corrector.FixFragment('базалары мн қоймалары жанындағы тыйм салынған аймақтрды жәе қарулы күштердвің')
+
+corrector.GetCandidates(['ғасырдың', 'аягы'], 1)
